@@ -12,7 +12,7 @@ print(f"essa é sua média aritmética {somaf/4}")
 print(f"total de pontos {somaf}")
 if somaf >= 24:
     print(f"voce passou de ano {somaf}")
-elif somaf <=5:
+elif somaf <=23:
     print(f"voce ta devendo ponto {somaf}")
 else:
     print(f"você está de recuperaçâo {somaf}")
