@@ -5,7 +5,7 @@ b3 = float(input("terceira nota  "))
 b4 = float(input("quarta nota  "))
 
 somaf = (b1+b2+b3+b4)
-print(f"essa é sua média aritimética {somaf/4}")
+print(f"essa é sua média aritmética {somaf/4}")
 
 
 
