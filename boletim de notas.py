@@ -1,4 +1,3 @@
-# apenas-um-teste
 
 b1 = float(input("primeira nota  "))
 b2 = float(input("segunda nota  "))
